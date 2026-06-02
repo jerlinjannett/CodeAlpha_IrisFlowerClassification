@@ -26,8 +26,18 @@ Random Forest Classifier
 5. Model Training
 6. Model Evaluation
 
+## Project Visualizations
+### Pair Plot
+![Pair Plot](iris.png)
+
+### Confusion Matrix
+![Confusion Matrix](iris2.png)
+
 ## Results
-The model was trained and evaluated using a train-test split and achieved high classification accuracy.
+Model Accuracy: 96.67%
+
+The Random Forest Classifier successfully classified the Iris flower species with excellent performance.
+
 
 ## Author
 Jerlin Jannett M
